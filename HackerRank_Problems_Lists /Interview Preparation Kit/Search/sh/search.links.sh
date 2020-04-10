@@ -1,0 +1,9 @@
+https://www.hackerrank.com/challenges/bookmarks
+https://www.hackerrank.com/challenges/ctci-ice-cream-parlor
+https://www.hackerrank.com/challenges/making-candies
+https://www.hackerrank.com/challenges/maximum-subarray-sum
+https://www.hackerrank.com/challenges/minimum-time-required
+https://www.hackerrank.com/challenges/pairs
+https://www.hackerrank.com/challenges/swap-nodes-algo
+https://www.hackerrank.com/challenges/triple-sum
+https://www.hackerrank.com/interview/interview-preparation-kit/search/challenges
