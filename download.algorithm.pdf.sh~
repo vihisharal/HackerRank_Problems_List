@@ -1,1 +1,0 @@
-while  read -r line ;do output=$(echo "$line" | grep -Po "master\/\K(.*)(?=\/download)" );echo "${line} -O ${output}.pdf" ;done < Algorithm.links-2.sh  | sh
